@@ -10,8 +10,4 @@ redirect_from:
 I'm a 5th-year PhD student.
 
 
-Publications
-======
 
-Recent
-======
