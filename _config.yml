@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jingzhou Hu / Personal Homepage"
+title                    : "Jingzhou Hu's Homepage"
 title_separator          : "-"
 name                     : &name "Jingzhou Hu"
 description              : &description "personal description"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Jingzhou Hu"
-  avatar           : "profile.png"
-  bio              : "PhD student"
-  location         : "FL, USA"
+  avatar           : "me.png"
+  bio              : "Ph.D. student at the University of Florida"
+  location         : "Florida, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=T6FpaqMAAAAJ&hl=en"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
