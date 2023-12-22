@@ -22,8 +22,27 @@ Research topics Keyword:
 ---
 Machine Learning, Unsupervised Learning, Optimization, Nonnegative Matrix Factorization, Signal Processing, Tensor Decomposition, Recommendation System, Blind Signal Separation,  Bounded/Independent component analysis.
 
-News
+Publications:
 ---
+Jingzhou Hu and Kejun Huang. \Global Identifiability of $\ell 1$-based Dictionary Learning via Matrix
+Volume Optimization". In: Thirty-seventh Conference on Neural Information Processing Systems. 2023.
+
+Jingzhou Hu and Kejun Huang. \Identifiable Bounded Component Analysis Via Minimum Volume
+Enclosing Parallelotope". In: ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and
+Signal Processing (ICASSP). 2023, pp. 1-5.
+
+News 
+---
+One paper accepted: (updated Dec/2023)
+Complex Bounded Component Analysis: Identifiability and Algorithm **(ICASSP 2024)**
+
+One paper accepted:
+Global Identifiability of `1-based Dictionary Learning via Matrix Volume Optimization **(NeurIPS 2023)** 
+
+One paper accepted:
+Identifiable Bounded Component Analysis Via Minimum Volume Enclosing Parallelotope **(ICASSP 2023)** 
+
+
 
 
 
