@@ -18,6 +18,9 @@ I have a broad interest in the general area of Machine Learning (more specified 
 
 **Applications** in various areas, including traditional machine learning, data analytics, natural language processing, and computer vision.
 
+Now I'm shifting to something interesting, stay tuned :D
+
+
 Research topics Keyword:
 ---
 Machine Learning, Unsupervised Learning, Optimization, Nonnegative Matrix Factorization, Signal Processing, Tensor Decomposition, Recommendation System, Blind Signal Separation,  Bounded/Independent component analysis.
