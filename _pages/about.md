@@ -35,7 +35,7 @@ One paper accepted:
 Complex Bounded Component Analysis: Identifiability and Algorithm **(ICASSP 2024)**
 
 One paper accepted:
-Global Identifiability of `1-based Dictionary Learning via Matrix Volume Optimization **(NeurIPS 2023)** 
+Global Identifiability of L1-based Dictionary Learning via Matrix Volume Optimization **(NeurIPS 2023)** 
 
 One paper accepted:
 Identifiable Bounded Component Analysis Via Minimum Volume Enclosing Parallelotope **(ICASSP 2023)** 
