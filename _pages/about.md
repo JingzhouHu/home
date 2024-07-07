@@ -16,7 +16,7 @@ I have a broad interest in the general area of Machine Learning (more specified 
 
 **Non-convex optimization** algorithms that are computationally efficient and (hopefully) with optimality guarantees.
 
-**Applications** in various areas, including traditional machine learning, data analytics, natural language processing, and computer vision.
+**Applications** in various areas, including machine learning, data analytics, natural language processing, and computer vision.
 
 Now I'm shifting to some interesting new topics, stay tuned :D
 
